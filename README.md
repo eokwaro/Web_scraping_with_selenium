@@ -1,1 +1,1 @@
-climate.pmg
+![Description of Image](climate.png)
